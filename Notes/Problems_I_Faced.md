@@ -1,0 +1,1 @@
+- I expect a function to return a JSON response, but it sometimes throws errors. These errors happen when the JSON output is empty, so I catch the exception and handle the empty response case
